@@ -22,7 +22,7 @@ A **hardened**, **enterprise-ready** Next.js starter template developed with sec
 - Security-sensitive projects
 
 > [!IMPORTANT]
-> This template is maintained and follows OWASP best practices, NIST guidelines, and enterprise security standards. Continuous updates, zero vulnerabilities guaranteed.
+> This template is maintained and follows OWASP practices, NIST guidelines, and enterprise security standards.
 
 ## Security Architecture
 
@@ -93,32 +93,6 @@ npm run start
 | **GDPR** | 100% | Data protection headers |
 | **PCI DSS** | Partial | Additional requirements for payments |
 | **HIPAA** | Partial | Requires BAA and additional controls |
-
-## Defense-in-Depth Layers
-
-```
-┌─────────────────────────────────────┐
-│         Application Layer           │
-│  - React 19 with strict mode        │
-│  - TypeScript 5.8                   │
-│  - XSS prevention                   │
-├─────────────────────────────────────┤
-│         Framework Layer             │
-│  - Next.js 15.5.12                  │
-│  - App Router with Server Components│
-│  - Built-in CSRF protection         │
-├─────────────────────────────────────┤
-│         HTTP Layer                  │
-│  - Comprehensive security headers   │
-│  - HSTS preload                     │
-│  - CSP 3.0                          │
-├─────────────────────────────────────┤
-│         Build Layer                 │
-│  - Obfuscation-ready                │
-│  - Source map stripping             │
-│  - Dead code elimination            │
-└─────────────────────────────────────┘
-```
 
 ## Production Deployment
 
