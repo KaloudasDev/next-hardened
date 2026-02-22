@@ -13,7 +13,7 @@
 
 ## Professional Overview
 
-A hardened, enterprise-ready Next.js starter template developed with security architecture. This boilerplate implements comprehensive security measures, from build-time obfuscation to runtime protection headers, suitable for:
+A hardened, enterprise-ready Next.js starter with security architecture. This boilerplate implements comprehensive security measures, from build-time obfuscation to runtime protection headers, suitable for:
 
 - Financial applications
 - Healthcare platforms (HIPAA-ready)
