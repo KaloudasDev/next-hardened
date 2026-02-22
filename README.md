@@ -62,7 +62,7 @@ A hardened, enterprise-ready Next.js starter with security architecture. This bo
 
 ```bash
 # Clone with security-first approach
-git clone https://github.com/yourusername/next-hardened.git
+git clone https://github.com/KaloudasDev/next-hardened.git
 cd next-hardened
 
 # Verify integrity (recommended for production use)
