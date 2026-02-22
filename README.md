@@ -16,7 +16,7 @@
 A hardened, enterprise-ready Next.js starter with security architecture. This boilerplate implements comprehensive security measures, from build-time obfuscation to runtime protection headers, making it suitable for:
 
 - Financial applications
-- Healthcare platforms (HIPAA-ready)
+- Healthcare platforms
 - Corporate dashboards
 - High-traffic production apps
 - Security-sensitive projects
@@ -221,4 +221,4 @@ Copyright © 2026 [Your Name/Company]. All rights reserved.
 
 This project is licensed under the MIT License with additional security clauses - see the [LICENSE](LICENSE) file for details.
 
-**Redistribution** of this hardened template must maintain all security configurations. Removal of security headers or protections voids warranty.
+**Redistribution** of this hardened template must maintain all security configurations.
