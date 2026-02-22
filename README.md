@@ -9,10 +9,6 @@
   
   **Enterprise-grade Next.js boilerplate with military-grade security configurations and production hardening**
   
-  [![Security Audit](https://github.com/yourusername/next-hardened/actions/workflows/security.yml/badge.svg)](https://github.com/yourusername/next-hardened/actions)
-  [![CodeQL](https://github.com/yourusername/next-hardened/actions/workflows/codeql.yml/badge.svg)](https://github.com/yourusername/next-hardened/actions)
-  [![Vulnerabilities](https://snyk.io/test/github/yourusername/next-hardened/badge.svg)](https://snyk.io/test/github/yourusername/next-hardened)
-
 </div>
 
 ## Professional Overview
