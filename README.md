@@ -36,7 +36,7 @@ A hardened, enterprise-ready Next.js starter with security architecture. This bo
 | **X-Content-Type-Options** | `nosniff` | MIME sniffing |
 | **Referrer-Policy** | `strict-origin-when-cross-origin` | Information leakage |
 | **Permissions-Policy** | `geolocation=(), microphone=(), camera=()` | API abuse |
-| **Cross-Origin-* Policies** | `require-corp`, `same-origin` | Cross-origin isolation |
+| **Cross-Origin- Policies** | `require-corp`, `same-origin` | Cross-origin isolation |
 
 ### Build-Time Hardening
 
