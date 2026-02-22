@@ -22,7 +22,7 @@ A **hardened**, **enterprise-ready** Next.js starter template developed with sec
 - Security-sensitive projects
 
 > [!IMPORTANT]
-> This template is maintained by a senior cybersecurity professional and follows OWASP best practices, NIST guidelines, and enterprise security standards. Regular audits, continuous updates, zero vulnerabilities guaranteed.
+> This template is maintained and follows OWASP best practices, NIST guidelines, and enterprise security standards. Continuous updates, zero vulnerabilities guaranteed.
 
 ## Security Architecture
 
